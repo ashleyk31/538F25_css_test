@@ -1,0 +1,20 @@
+h1 {
+    font-family: Cambria;
+    font-size: 5em;
+    background-color: aqua;
+}
+
+div {
+    background-color: beige;
+}
+
+ul {
+    font-family: Cambria;
+    background-color: bisque;
+}
+
+h2 {
+    font-size: 2em;
+    background-color: black;
+    color: white;
+}
